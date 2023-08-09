@@ -1,0 +1,8 @@
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\bin\Debug\ConApp_PlayerandTeamReaquiements.exe.config
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\bin\Debug\ConApp_PlayerandTeamReaquiements.exe
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\bin\Debug\ConApp_PlayerandTeamReaquiements.pdb
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\obj\Debug\ConApp_PlayerandTeamReaquiements.csproj.AssemblyReference.cache
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\obj\Debug\ConApp_PlayerandTeamReaquiements.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\obj\Debug\ConApp_PlayerandTeamReaquiements.csproj.CoreCompileInputs.cache
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\obj\Debug\ConApp_PlayerandTeamReaquiements.exe
+D:\DotNet\Assesment_Project\ConApp_PlayerandTeamReaquiements\obj\Debug\ConApp_PlayerandTeamReaquiements.pdb
